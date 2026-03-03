@@ -28,14 +28,14 @@
         <h1>O que é Bloodborne?</h1>
         <br/>
         <p>Bloodborne se passa na cidade de Yharnam, que está infestada por uma doença misteriosa que transforma os habitantes em criaturas bestiais. Os jogadores assumem o papel de um Caçador, cuja missão é descobrir os segredos da cidade e enfrentar monstros aterrorizantes. Bloodborne é conhecido por sua atmosfera sombria, combate rápido e uma narrativa complexa que explora temas de horror e mitologia. </p>
-        <img src ="bloodborne-capa.jpg" alt="foto do jogo bloodborne">
+        <img src ="img/bloodborne-capa.jpg" alt="foto do jogo bloodborne">
          <br/>
          
     </article> <!-- ano criado/criador /se tiver premio -->
        <h1>Em que ano foi lançado?</h1>
         <br/>
        <p> é um jogo eletrônico de ação e RPG desenvolvido pela FromSoftware e lançado em 24 de março de 2015 exclusivamente para o PlayStation 4, embora não tenha concorrido a prêmios significativos em eventos de premiação, como os Game Awards, o jogo conquistou diversos prêmios, incluindo "Melhor Jogo Original" e "Melhor Jogo no PS4" no Golden Joystick Awards de 2015, além de "Melhor Design de Jogo" no British Academy Games Awards. A ausência de uma remasterização ou sequência de Bloodborne tem sido um ponto de discusão entre os fãs, mas o jogo continua sendo uma das obras mais impactantes da indústria de jogos.</p>
-               <img src ="HUNTER.webp" alt="foto do jogo bloodborne">
+               <img src ="img/HUNTER.webp" alt="foto do jogo bloodborne">
                 <br/>
 
     <article>
@@ -45,23 +45,23 @@
     
         <ul>
             <li>Clérigo Bestial</li>
-            <img src ="clerigo bestial.jpeg" alt="foto do clerigo bestial">
+            <img src ="img/clerigo bestial.jpeg" alt="foto do clerigo bestial">
             <li>Padre Gascoigne</li>
-            <img src ="padre gascoigne.avif" alt="foto do padre gascoigne">
+            <img src ="img/padre gascoigne.avif" alt="foto do padre gascoigne">
             <li>Besta Sedenta de Sangue</li>
-            <img src ="besta de sangue.webp" alt="foto do besta sedenta de sangue">
+            <img src ="img/besta de sangue.webp" alt="foto do besta sedenta de sangue">
             <li>Vigária Amelia</li>
-            <img src ="amelia.png" alt="foto do vigaria amelia">
+            <img src ="img/amelia.png" alt="foto do vigaria amelia">
             <li>Sombra de Yharnam</li>
-            <img src ="sombra.png" alt="foto do sombra de yharnam">
+            <img src ="img/sombra.png" alt="foto do sombra de yharnam">
             <li>Rom, a Aranha Vazia</li>
-            <img src ="aranhabb.jpg" alt="foto do rom a aranha vazia">
+            <img src ="img/aranhabb.jpg" alt="foto do rom a aranha vazia">
             <li>O Renascido</li>
-            <img src ="orenascido.jpg" alt="foto do o renascido">
+            <img src ="img/orenascido.jpg" alt="foto do o renascido">
             <li>Micolash, Anfitrião do Pesadelo</li>
-            <img src ="micolash.avif" alt="foto do micolash anfitriao do pesadelo">
+            <img src ="img/micolash.avif" alt="foto do micolash anfitriao do pesadelo">
             <li>Mergo, Ama da Cria</li>
-            <img src ="mergo.webp" alt="foto do mergo ama da cria">
+            <img src ="img/mergo.webp" alt="foto do mergo ama da cria">
         </ul>
     </article>
 
@@ -71,15 +71,15 @@
         <br/>
         <ul>
             <li>Ludwig, o Amaldiçoado</li>
-            <img src ="ludwig.png" alt="foto do ludwig">
+            <img src ="img/ludwig.png" alt="foto do ludwig">
             <li>Fracassos Vivos</li>
-            <img src ="fracassos.webp" alt="foto do fracassos vivos">
+            <img src ="img/fracassos.webp" alt="foto do fracassos vivos">
             <li>Lady Maria</li>
-            <img src ="ladymarya.jpg" alt="foto da lady marya">
+            <img src ="img/ladymarya.jpg" alt="foto da lady marya">
             <li>Laurence, o Primeiro Vigário</li>
-            <img src ="laurence3.jpg" alt="foto do laurence">
+            <img src ="img/laurence3.jpg" alt="foto do laurence">
             <li>Órfão de Kos</li>
-            <img src ="orphan.png" alt="foto do orfão">
+            <img src ="img/orphan.png" alt="foto do orfão">
             </ul>
     </article>
 
