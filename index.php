@@ -86,7 +86,8 @@
 </main>
     
     <footer>
-        <p>Copyright © 2026 BloodBornLoverz. Todos os direitos reservados.(MATOS, LUCAS)</p>
+        <p>Copyright © <?php echo date('Y'); ?>
+ BloodBornLoverz. Todos os direitos reservados.(MATOS, LUCAS)</p>
     </footer>
 </body>
 </html>
