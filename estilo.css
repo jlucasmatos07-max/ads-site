@@ -65,45 +65,42 @@ img {
         flex: 1;
         min-width: 300px;
         background-color: #5a5656;
-        padding:15px;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 }
 /*bosses principais*/
-main img[src="clerigo bestial.jpeg"] {
+main img[src="img/clerigo bestial.jpeg"] {
     width: 400px;
 }
 
-main img[src="padre gascoigne.avif"] {
+main img[src="img/padre gascoigne.avif"] {
     width: 400px;
 }
 
-main img[src="besta de sangue.webp"] {
+main img[src="img/besta de sangue.webp"] {
     width: 400px;
 }
 
-main img[src="amelia.png"] {
+main img[src="img/amelia.png"] {
     width: 400px;
 }
 
-main img[src="sombra.png"] {
+main img[src="img/sombra.png"] {
     width: 400px;
 }
 
-main img[src="aranhabb.jpg"] {
+main img[src="img/aranhabb.jpg"] {
     width: 400px;
 }
 
-main img[src="orenascido.jpg"] {
+main img[src="img/orenascido.jpg"] {
     width: 400px;
 }
 
-main img[src="micolash.avif"] {
+main img[src="img/micolash.avif"] {
     width: 400px;
 }
 
-main img[src="mergo.webp"] {
+main img[src="img/mergo.webp"] {
     width: 400px;
 }
 
