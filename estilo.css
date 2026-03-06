@@ -108,19 +108,19 @@ main img[src="mergo.webp"] {
 }
 
 /*bosses de dlc*/
-main img[src="ludwig.png"] {
+main img[src="img/ludwig.png"] {
     width: 400px;
 }
-main img[src="fracassos.webp"] {
+main img[src="img/fracassos.webp"] {
     width: 400px;
 }
-main img[src="ladymarya.jpg"] {
+main img[src="img/ladymarya.jpg"] {
     width: 400px;
 }
-main img[src="laurence3.jpg"] {
+main img[src="img/laurence3.jpg"] {
     width: 400px;
 }
-main img[src="orphan.png"] {
+main img[src="img/orphan.png"] {
     width: 400px;
 }
 /*nome dos bosses*/
@@ -131,6 +131,5 @@ main ul li {
 /*footer*/
 footer {
     text-align:center;
-    padding:500px;
     color:#5a5656;
 }
